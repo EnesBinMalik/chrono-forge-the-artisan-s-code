@@ -1,0 +1,6 @@
+{
+  "name": "Chrono-Forge: The Artisan's Code",
+  "description": "Enes Öztürk imzalı 3D zanaatkar mekanik aksiyon, saat mekanizması mühendisliği ve fiziksel mantık kapısı dövme başyapıtı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
